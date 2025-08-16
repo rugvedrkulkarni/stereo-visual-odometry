@@ -1,0 +1,6 @@
+images: data_odometry_gray
+poses: data_odometry_poses
+sequence: 00 # Sequence number to select dataset (Can be changed to 01->10)
+frame_start: 0 # ID of the starting frame. 
+frame_end: 1100 # ID of the ending frame. Full SVO occurs between [frame_start, frame_end] 
+csv_path: output.csv 

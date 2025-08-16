@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual envs
+.venv/
+venv/
+
+# Secrets & env files (if any)
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data 
+data/
+datasets/
+data_odometry_gray/
+data_odometry_poses/
+*.csv
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
